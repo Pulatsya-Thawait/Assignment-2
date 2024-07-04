@@ -1,0 +1,108 @@
+State,Total Customers
+California,3631
+Texas,3572
+Florida,2834
+New York,1786
+Virginia,1164
+Ohio,1160
+Dist. Columbia,1110
+Pennsylvania,1017
+Georgia,926
+Illinois,848
+North Carolina,765
+Colorado,742
+Alabama,738
+Arizona,737
+Indiana,736
+Minnesota,712
+Missouri,682
+Tennessee,664
+Washington,663
+Louisiana,627
+Michigan,612
+Oklahoma,538
+Massachusetts,493
+Kansas,467
+Nevada,459
+Maryland,415
+Kentucky,411
+Connecticut,408
+Iowa,366
+Wisconsin,342
+New Jersey,317
+South Carolina,315
+West Virginia,301
+Utah,298
+Oregon,261
+Nebraska,243
+New Mexico,212
+Arkansas,204
+Mississippi,178
+Idaho,174
+Hawaii,149
+Alaska,146
+Delaware,128
+Montana,94
+South Dakota,93
+North Dakota,76
+New Hampshire,51
+Rhode Island,35
+Maine,16
+Vermont,14
+Wyoming,11
+,
+,
+,
+Reason of Complaint,Total Customer
+Billing Question,23462
+Payments,4749
+Service Outage,4730
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Preferred Call Centre,Total Customer
+Baltimore/MD,11012
+Chicago/IL,5419
+Denver/CO,2776
+Los Angeles/CA,13734
+,
+,
+Months,Total Complaints
+Jan,1089
+Feb,1084
+Mar,1089
+Apr,1049
+May,1090
+Jun,1152
+Jul,1045
+Aug,1067
+Sep,1123
+Oct,20978
+Nov,1087
+Dec,1088
+,
+,
+,
+,
+,
+,
+City,Complaints
+Atlanta,416
+Chicago,327
+Dallas,437
+El Paso,528
+Houston,657
+Kansas City,327
+Los Angeles,331
+Miami,374
+New York City,564
+Sacramento,341
+Washington,1110
